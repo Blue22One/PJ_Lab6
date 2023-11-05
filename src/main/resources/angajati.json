@@ -1,0 +1,20 @@
+[
+  {
+    "nume": "Ion",
+    "post": "profesor",
+    "data_ang": "12/10/2022",
+    "salariu": 2999.99
+  },
+  {
+    "nume": "Popescu",
+    "post": "director",
+    "data_ang": "30/07/2022",
+    "salariu": 10000
+  },
+  {
+    "nume": "Marian",
+    "post": "inginer constructor",
+    "data_ang": "19/08/1995",
+    "salariu": 1500
+  }
+]
